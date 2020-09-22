@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/avomakesart/code-playground/static/css/main.89e9d674.chunk.css",
+    "main.js": "/avomakesart/code-playground/static/js/main.c018f837.chunk.js",
+    "main.js.map": "/avomakesart/code-playground/static/js/main.c018f837.chunk.js.map",
+    "runtime-main.js": "/avomakesart/code-playground/static/js/runtime-main.2a8df431.js",
+    "runtime-main.js.map": "/avomakesart/code-playground/static/js/runtime-main.2a8df431.js.map",
+    "static/css/2.ce280647.chunk.css": "/avomakesart/code-playground/static/css/2.ce280647.chunk.css",
+    "static/js/2.c2da66e4.chunk.js": "/avomakesart/code-playground/static/js/2.c2da66e4.chunk.js",
+    "static/js/2.c2da66e4.chunk.js.map": "/avomakesart/code-playground/static/js/2.c2da66e4.chunk.js.map",
+    "index.html": "/avomakesart/code-playground/index.html",
+    "precache-manifest.9c57f6e325dbf56d17ca6993a1458dcc.js": "/avomakesart/code-playground/precache-manifest.9c57f6e325dbf56d17ca6993a1458dcc.js",
+    "service-worker.js": "/avomakesart/code-playground/service-worker.js",
+    "static/css/2.ce280647.chunk.css.map": "/avomakesart/code-playground/static/css/2.ce280647.chunk.css.map",
+    "static/css/main.89e9d674.chunk.css.map": "/avomakesart/code-playground/static/css/main.89e9d674.chunk.css.map",
+    "static/js/2.c2da66e4.chunk.js.LICENSE.txt": "/avomakesart/code-playground/static/js/2.c2da66e4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2a8df431.js",
+    "static/css/2.ce280647.chunk.css",
+    "static/js/2.c2da66e4.chunk.js",
+    "static/css/main.89e9d674.chunk.css",
+    "static/js/main.c018f837.chunk.js"
+  ]
+}
